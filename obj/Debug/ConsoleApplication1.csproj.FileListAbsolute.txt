@@ -1,0 +1,10 @@
+C:\Users\Chandan\Documents\Visual Studio 2013\Projects\csharp_mongodb\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Chandan\Documents\Visual Studio 2013\Projects\csharp_mongodb\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Chandan\Documents\Visual Studio 2013\Projects\csharp_mongodb\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Chandan\Documents\Visual Studio 2013\Projects\csharp_mongodb\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Chandan\Documents\Visual Studio 2013\Projects\csharp_mongodb\ConsoleApplication1\bin\Debug\MongoDB.Bson.dll
+C:\Users\Chandan\Documents\Visual Studio 2013\Projects\csharp_mongodb\ConsoleApplication1\bin\Debug\MongoDB.Driver.dll
+C:\Users\Chandan\Documents\Visual Studio 2013\Projects\csharp_mongodb\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Chandan\Documents\Visual Studio 2013\Projects\csharp_mongodb\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Chandan\Documents\Visual Studio 2013\Projects\csharp_mongodb\ConsoleApplication1\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Chandan\Documents\Visual Studio 2013\Projects\csharp_mongodb\ConsoleApplication1\bin\Debug\MongoDB.Driver.Legacy.dll
